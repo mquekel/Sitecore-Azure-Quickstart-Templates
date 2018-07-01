@@ -6,7 +6,7 @@
       "value": ""
     },
     "location": {
-      "value": ""
+      "value": "__sitecore.location__"
     },
     "sitecoreAdminPassword": {
       "value": "__sitecore.AdminPassword__"
@@ -15,22 +15,22 @@
       "value": ""
     },
     "sqlServerLogin": {
-      "value": ""
+      "value": "__sitecore.sqlServerLogin__"
     },
     "sqlServerPassword": {
-      "value": ""
+      "value": "__sitecore.sqlServerPassword__"
     },
     "singleMsDeployPackageUrl": {
-      "value": ""
+      "value": "__sitecore.singleMsDeployPackageUrl__"
     },
     "xcSingleMsDeployPackageUrl": {
-      "value": ""
+      "value": "__sitecore.xcSingleMsDeployPackageUrl__"
     },
     "authCertificateBlob":{
-      "value": ""
+      "value": "__sitecore.authCertificateBlob__"
     },
     "authCertificatePassword":{
-      "value": ""
+      "value": "__sitecore.authCertificatePassword__"
     }
   }
 }
