@@ -9,7 +9,7 @@
       "value": ""
     },
     "sitecoreAdminPassword": {
-      "value": "$(sitecore.AdminPassword)"
+      "value": "__sitecore.AdminPassword__"
     },
     "licenseXml": {
       "value": ""
